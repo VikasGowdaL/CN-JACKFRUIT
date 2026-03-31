@@ -1,0 +1,39 @@
+2026-03-30 14:58:37,629 [INFO    ] Server: UDP socket bound to 127.0.0.1:9001
+2026-03-30 14:58:37,633 [INFO    ] Server: TLS server listening on 127.0.0.1:9000
+2026-03-30 14:58:37,634 [INFO    ] Server: Accepting TLS connections …
+2026-03-30 14:58:37,635 [INFO    ] Server: UDP receiver started.
+2026-03-30 14:58:37,636 [INFO    ] Server: Retransmission loop started.
+2026-03-30 14:58:37,636 [INFO    ] Server: Server ready.
+2026-03-30 14:58:42,021 [INFO    ] Server: [+] Registered  'alice'  UDP=('127.0.0.1', 58657)  groups={0, 1}
+2026-03-30 14:58:46,998 [INFO    ] Server: [+] Registered  'bob'  UDP=('127.0.0.1', 50189)  groups={1, 3}
+2026-03-30 14:58:52,637 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 0, 'acks_received': 0, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 14:59:07,638 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 0, 'acks_received': 0, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 14:59:22,640 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 0, 'acks_received': 0, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 14:59:26,686 [INFO    ] Server: [NOTIFY] seq=1 group=0x0000 reliable → 2 subscriber(s)
+2026-03-30 14:59:29,616 [INFO    ] Server: [NOTIFY] seq=2 group=0x0000 reliable → 2 subscriber(s)
+2026-03-30 14:59:37,641 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 14:59:52,643 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 14:59:57,065 [WARNING ] Server: No active subscribers in group — notification not sent.
+2026-03-30 14:59:58,729 [WARNING ] Server: No active subscribers in group — notification not sent.
+2026-03-30 15:00:07,644 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:00:22,645 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:00:37,646 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:00:52,647 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:01:07,648 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:01:22,650 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:01:37,651 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:01:52,652 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:02:07,653 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:02:22,654 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:02:37,655 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:02:52,656 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:03:07,658 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:03:22,659 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:03:37,660 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:03:52,662 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:04:07,663 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:04:22,664 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:04:37,665 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:04:52,674 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:05:07,676 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
+2026-03-30 15:05:22,677 [INFO    ] Server: [STATS] subscribers=2 | {'sent': 4, 'acks_received': 4, 'retransmissions': 0, 'dropped': 0}
